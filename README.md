@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm a Cloud & DevOps Engineer</h1>
 <h3 align="center">
-Building scalable, secure, and automated cloud platforms
+Building scalable, secure, and automated cloud infrastrure
 </h3>
 
 <p align="center">
