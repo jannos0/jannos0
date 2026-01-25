@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Cloud & DevOps Engineer</h1>
+<h1 align="center">Hi 👋, I'm a Cloud DevOps Engineer</h1>
 <h3 align="center">
 Building resilient cloud infrastructure and platform engineering solutions
 </h3>
