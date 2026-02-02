@@ -1,5 +1,6 @@
 Hey, I'm Ioannes 👋
 🚀☁️ Cloud DevOps Engineer | 📍 Athens, Greece
+
 Obsessed with shipping fast, breaking less, and automating everything in between. Currently running DevOps & SRE for a big bank's cloud migration.
 
 What I'm working on:
