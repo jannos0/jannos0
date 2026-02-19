@@ -1,7 +1,7 @@
 Hey, I'm Ioannes 👋
 🚀☁️ Cloud DevOps Engineer | 📍 Athens, Greece
 
-Obsessed with shipping fast, breaking less, and automating everything in between. Currently running DevOps/Platform Engineering & SRE for a big bank's Cloud migration.
+Obsessed with shipping fast, breaking less, and automating everything in between. Currently running DevOps/Platform Engineering & SRE for Piraeus Bank's Cloud migration.
 
 Also reimagining and patching the Cloud IaC and Microservices Architecture with also a touch of Monitoring Logs.
 
