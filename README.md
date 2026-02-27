@@ -1,6 +1,8 @@
 Hey, I'm Ioannes 👋
 ☁️ Cloud DevOps / Platform Engineer & SRE | 📍 Athens, Greece
+
 Shipping fast, breaking less, automating everything. Currently driving DevOps, Platform Engineering & SRE for Piraeus Bank's cloud migration.
+
 What I'm working on:
 
 🚀 End-to-end CI/CD pipelines with security gates & compliance checks on Azure DevOps
@@ -12,4 +14,4 @@ What I'm working on:
 🤖 MCP Server deployments for Azure DevOps, AKS & automated debugging
 
 Stack:
-Azure GCP AWS ArgoCD Azure DevOps Terraform Ansible Kubernetes Docker Helm Prometheus Grafana ELK PostgreSQL Cosmos DB
+Azure GCP AWS ArgoCD Azure DevOps Terraform Ansible Kubernetes Docker Helm Prometheus Grafana ELK PostgreSQL CosmosDB
