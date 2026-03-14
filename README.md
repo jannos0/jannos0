@@ -1,23 +1,34 @@
-Hey, I'm Ioannes 👋
-☁️ Cloud DevOps / Platform Engineer & SRE | 📍 Athens, Greece
+# Hi I'm Ioannes 👋
+**Cloud DevOps Engineer**
+📍 Athens, Greece • 🏢 Currently contributing at the Cloud Migration of **Piraeus Bank**
 
-Shipping fast, breaking less, automating everything. Currently driving DevOps, Platform Engineering & SRE for Piraeus Bank's cloud migration.
 
-What I'm working on:
+---
 
-🚀 End-to-end CI/CD pipelines with security gates & compliance checks on Azure DevOps
+### **Current Focus**
+* 🏗️ **Platform:** Multi-cloud GitOps (ArgoCD), K8s (AKS/GKE) & **Azure Server Management**.
+* 🛡️ **DevSecOps:** Hardened **Azure DevOps** pipelines & automated incident recovery.
+* 📊 **SRE:** Enterprise observability (Prometheus/Grafana) & Error Budgets.
+* 🤖 **AI/Ops:** MCP Server deployments for automated debugging.
 
-📊 SRE platform — SLIs, SLOs, and error budgets with Prometheus/Grafana for banking workloads
+---
 
-🏗️ ArgoCD-based GitOps platform for multi-cloud (Azure + GCP) Kubernetes deployments
+### **Tech Stack**
 
-🔄 Incident response automation — runbooks, on-call workflows, and zero-downtime recovery
+**Cloud & Orchestration**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-🌐 Multi-cloud migration framework for a major bank — Terraform + Ansible, networking & security policies
+**CI/CD & GitOps**
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge&logo=argo-cd&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-📈 Observability stack — Prometheus, Grafana & ELK across enterprise workloads
-
-🤖 MCP Server deployments for Azure DevOps, AKS & automated debugging
-
-Stack:
-Azure GCP AWS ArgoCD Azure DevOps Terraform Ansible Kubernetes Docker Helm Prometheus Grafana ELK PostgreSQL CosmosDB
+**Observability & Data**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
