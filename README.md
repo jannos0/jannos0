@@ -9,7 +9,7 @@
 * 🏗️ **Platform:** Multi-cloud GitOps (ArgoCD), K8s (AKS/GKE) & **Azure Server Management**.
 * 🛡️ **DevSecOps:** Hardened **Azure DevOps** pipelines & automated incident recovery.
 * 📊 **SRE:** Enterprise observability (Prometheus/Grafana) & Error Budgets.
-* 🤖 **AI/Ops:** MCP Server deployments for automated debugging, Azure automated information extraction and modification and GitOps management.
+* 🤖 **AI/Ops:** MCP Server deployments for automated debugging, Azure AKS Cluster Management, ADO Management, Information Extraction and GitOps Management/Assigns.
 
 ---
 
