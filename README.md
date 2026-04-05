@@ -6,13 +6,14 @@
 ---
 
 ### **Current Focus**
-Cloud: Multi-cloud GitOps Standardization & K8s management. Azure & GCP
+• Cloud: Multi-cloud GitOps Standardization (ArgoCD) & K8s management. Azure & GCP
 
-DevSecOps: Secure, automated pipelines & self-healing systems.
+• DevSecOps: Secure, automated pipelines & self-healing systems.
 
-SRE: Observability & reliability tracking using Prometheus and Graphana.
+• SRE: Observability & reliability tracking using Prometheus and Graphana.
 
-AI: Automating deployments directly on VSCode and VisualStudio for MCP deployments to help developers utilize AI Tools.
+• AI: Automating deployments directly on VSCode and VisualStudio for MCP deployments to help developers utilize AI Tools.
+
 ---
 
 ### **Tech Stack**
