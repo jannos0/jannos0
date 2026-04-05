@@ -6,11 +6,13 @@
 ---
 
 ### **Current Focus**
-* 🏗️ **Platform:** Multi-cloud GitOps (ArgoCD), K8s (AKS/GKE) & **Azure Server Management**.
-* 🛡️ **DevSecOps:** Hardened **Azure DevOps** pipelines & automated incident recovery and log.
-* 📊 **SRE:** Enterprise observability (Prometheus/Grafana) & Error Budgets.
-* 🤖 **AI/Ops:** Automating g MCP Server deployment for Project approved servers in order to leverage their potential.
+Cloud: Multi-cloud GitOps & K8s management. Azure & GCP
 
+DevSecOps: Secure pipelines, GitOps Standardization & self-healing systems.
+
+SRE: Observability & reliability tracking using Prometheus and Graphana.
+
+AI: Automating deployments directly on VSCode and VisualStudio for MCP deployments to help developers utilize AI Tools.
 ---
 
 ### **Tech Stack**
