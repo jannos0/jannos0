@@ -10,7 +10,7 @@
 
 • DevSecOps: Secure, automated pipelines & self-healing systems.
 
-• SRE: Observability & reliability tracking using Prometheus and Graphana.
+• SRE: Observability & reliability tracking using Prometheus and Grafana.
 
 • AI: Automating deployments directly on VSCode and VisualStudio for MCP deployments to help developers utilize AI Tools.
 
