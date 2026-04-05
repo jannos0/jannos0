@@ -6,9 +6,9 @@
 ---
 
 ### **Current Focus**
-Cloud: Multi-cloud GitOps & K8s management. Azure & GCP
+Cloud: Multi-cloud GitOps Standardization & K8s management. Azure & GCP
 
-DevSecOps: Secure pipelines, GitOps Standardization & self-healing systems.
+DevSecOps: Secure, automated pipelines & self-healing systems.
 
 SRE: Observability & reliability tracking using Prometheus and Graphana.
 
