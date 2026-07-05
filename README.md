@@ -7,7 +7,7 @@
 
 ## What I Do
 
-I own and optimize end-to-end CI/CD pipelines—cutting build and deployment times while strengthening traceability and system reliability. I specialize in **GitOps standardization on Kubernetes** (ArgoCD), **secure pipeline automation**, and **cloud infrastructure management** aligned with Banking Sector technical and budget standards.
+I build and optimize end-to-end CI/CD pipelines with a focus on GitOps (Argo CD), Kubernetes, and cloud infrastructure, supporting large-scale cloud migration in the banking sector.
 
 ---
 
