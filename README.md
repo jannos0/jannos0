@@ -11,12 +11,13 @@ I own and optimize end-to-end CI/CD pipelines—cutting build and deployment tim
 
 ---
 
-## Current Focus
+Current Focus
 
-• **Cloud:** Multi-cloud GitOps Standardization (ArgoCD) & K8s management across **Azure** & **GCP**  
-• **DevSecOps:** Secure, automated pipelines & self-healing systems  
-• **SRE:** Observability & reliability tracking using **Prometheus** and **Grafana**  
-• **AI:** Automating deployments directly on **VSCode** and **VisualStudio** for MCP deployments, helping developers utilize AI tools
+• CI/CD: End-to-end ownership of build & deployment pipelines, focusing on automation, optimization, traceability, and reliability
+• GitOps: Kubernetes deployments using Argo CD, enabling standardized and automated application delivery
+• Platform Engineering: Containerized local development environments with Podman, maintaining 1:1 parity between local and cloud infrastructure
+• Azure DevOps: Streamlined release workflows through automated branch merging, standardized tagging strategies, and centralized configuration management
+• DevOps: Infrastructure automation, deployment support, pipeline monitoring, troubleshooting, and environment maintenance across agile development teams
 
 ---
 
