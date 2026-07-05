@@ -1,7 +1,7 @@
 # Hi, I'm Ioannes 👋
 
 **Cloud DevOps Engineer**  
-📍 Athens, Greece • 🏢 Currently contributing at the Cloud Migration of **Piraeus Bank**
+📍 Athens, Greece • 🏢 Currently contributing at the Cloud Migration of **One of the biggest of Greece's Banks**
 
 ---
 
