@@ -1,6 +1,6 @@
 # Hi, I'm Ioannis 👋
 
-### Cloud & DevOps Engineer · Azure · Kubernetes · GitOps · Platform Engineering
+### Cloud & DevOps Engineer · Azure · Kubernetes · GitOps · Cloud DevOps Engineering
 
 📍 Athens, Greece<br>
 🏢 Contributing to enterprise cloud migration and modernization in the banking sector
@@ -23,26 +23,6 @@ I currently work with Azure DevOps, Azure Bicep, Kubernetes/AKS, Argo CD, and Po
 - **Platform engineering:** Containerized local environments with Podman, designed for stronger local-to-cloud parity
 - **Operations:** Pipeline monitoring, release troubleshooting, environment maintenance, documentation, and cross-team support
 - **Observability:** Monitoring and logging workflows using Prometheus, Grafana, ELK, and Zabbix
-
-## Featured projects
-
-### [PostgreSQL Monitoring Stack](https://github.com/jannos0/prometheus-stack)
-
-A Docker Compose monitoring environment for PostgreSQL 17 using Prometheus, postgres_exporter, and Grafana. It includes pre-provisioned datasources and dashboards, persistent storage, SCRAM authentication guidance, and deployment modes for local or external PostgreSQL instances.
-
-`Docker Compose` `PostgreSQL` `Prometheus` `Grafana` `PowerShell`
-
-### [LAMS-SCH](https://github.com/jannos0/LAMS-SCH)
-
-A containerized LAMS learning environment with MySQL and a phpMyAdmin administration workflow.
-
-`Docker Compose` `Java` `MySQL`
-
-### [Cloud & DevOps Portfolio](https://yannos.online)
-
-My project portfolio and professional profile, with selected infrastructure work, experience, certifications, and technical focus areas.
-
-`HTML` `CSS` `JavaScript` `GitHub Pages`
 
 ## Technical toolkit
 
@@ -76,13 +56,6 @@ My project portfolio and professional profile, with selected infrastructure work
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Background
-
-- **BSc, Computer Engineering & Computer Science** — University of Thessaly
-- **Thesis:** Cross-Layer Security for IoT
 - **Languages:** Greek (native), English (C2)
 
 ---
-
-> I care about delivery systems that are understandable, documented, and repeatable for the engineer who operates them next.
