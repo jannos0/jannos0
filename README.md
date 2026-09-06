@@ -5,10 +5,6 @@
 📍 Athens, Greece<br>
 🏢 Contributing to enterprise cloud migration and modernization in the banking sector
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yannos.online-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://yannos.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-rigadopoulos/)
-[![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:ioannisrigadopoulos12@gmail.com)
-
 ## About me
 
 I build reliable, repeatable cloud infrastructure and delivery workflows for enterprise systems. My work focuses on Infrastructure as Code, CI/CD automation, GitOps-based Kubernetes delivery, environment parity, and the operational support that keeps releases moving.
