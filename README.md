@@ -1,6 +1,7 @@
 # Hi, I'm Ioannis 👋
 
-### Cloud & DevOps Engineer · Azure · Kubernetes · GitOps · Cloud DevOps Engineering
+### Cloud & DevOps Engineer
+· Azure · Kubernetes · GitOps · CI/CD Pipelines · Cloud Infrastructure
 
 📍 Athens, Greece<br>
 🏢 Contributing to enterprise cloud migration and modernization in the banking sector
