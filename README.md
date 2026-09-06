@@ -10,7 +10,7 @@
 
 I build reliable, repeatable cloud infrastructure and delivery workflows for enterprise systems. My work focuses on Infrastructure as Code, CI/CD automation, GitOps-based Kubernetes delivery, environment parity, and the operational support that keeps releases moving.
 
-I currently work with Azure DevOps, Azure Bicep, Kubernetes/AKS, Argo CD, and Podman while supporting a large-scale cloud modernization initiative.
+I currently work with Azure DevOps, Azure Bicep, Kubernetes/AKS, Argo CD, and Podman/Docker while supporting a large-scale cloud modernization initiative.
 
 ## What I work on
 
