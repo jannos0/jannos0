@@ -1,4 +1,4 @@
-# Hi, I'm Ioannis 👋
+# Hi, I'm Ioannes 👋
 
 ### Cloud & DevOps Engineer
 · Azure · Kubernetes · GitOps · CI/CD Pipelines · Cloud Infrastructure
