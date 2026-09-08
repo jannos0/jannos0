@@ -4,7 +4,7 @@
 · Azure · Kubernetes · GitOps · CI/CD Pipelines · Cloud Infrastructure
 
 📍 Athens, Greece<br>
-🏢 Contributing to enterprise cloud migration and modernization in the banking sector
+🏢 Contributing to enterprise cloud migration and modernization project for a top 3 leading greek bank.
 
 ## About me
 
